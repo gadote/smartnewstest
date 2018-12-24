@@ -1,0 +1,20 @@
+{
+    "Category 1": 
+    [
+        { "feed": "https://www.bisnis.com/rss" },
+        { "feed": "http://www.bintang.com/feed/rss2" },
+        { "feed": "http://www.bola.net/feed/" }
+    ],
+    "Category 2": 
+    [
+        { "feed": "http://www.tribunnews.com/rss" },
+        { "feed": "http://www.merdeka.com/feed/" },
+        { "feed": "http://www.sindonews.com/feed" }
+    ],
+    "Category 3": 
+    [
+        { "feed": "http://www.suara.com/rss" },
+        { "feed": "http://www.wowkeren.com/rss/wk_news.xml" },
+        { "feed": "http://rss.viva.co.id/get/all" }
+    ]
+}
